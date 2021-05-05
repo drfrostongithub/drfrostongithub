@@ -15,7 +15,4 @@
 - [My Resume]()
 
 ## 🙋‍♂️ Support My Work
-
-<!-- <a href="" target="_blank">
-      <img height="50" alt="Buy me a coffee" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/support-buy-coffee.png"/>
-  </a> --># drfrostongithub
+# drfrostongithub
