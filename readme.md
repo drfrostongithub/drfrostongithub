@@ -10,7 +10,7 @@
 
 ## 📃 Status
 
-- 🌱 I’m currently learning and using ReactJS & VueJS
+- 🌱 I’m currently learning and using ReactJS & VueJS (Also silently knew NodeJS Express)
 - 💬 Ask me about anything, I am happy to help
 
 ## ✅ Checkout
