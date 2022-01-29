@@ -18,6 +18,6 @@
 - [My Resume](https://www.dropbox.com/s/qqnelscq9zbquvm/PRF%20Dev%20Resume.pdf?dl=0)
 
 ## 🙋‍♂️ Support My Work and My Contributions to : 
-- JDM[Just Delete Me](https://github.com/jdm-contrib/jdm)
+- JDM [Just Delete Me](https://github.com/jdm-contrib/jdm)
 
 # drfrostongithub
