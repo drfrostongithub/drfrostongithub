@@ -2,7 +2,7 @@
   Hello World !
 </h1>
 
-<p>I'm <b>Putra Reza Fardani</b>, Front End Software Developer (and sometimes still an Full Stack) from <b>Jakarta, Indonesia</b>. </p>
+<p>I'm <b>Putra R F</b>, Front End Software Developer (and sometimes still an Full Stack) from <b>Jakarta, Indonesia</b>. </p>
 
 [Email](business.putrarezafardani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/putra-reza-f-3b226253/)
 
