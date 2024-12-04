@@ -16,7 +16,8 @@ I'm **Putra Reza Fardani**, a passionate **Software Developer** from **Jakarta, 
 
 - 🌱 Currently mastering **React.js**, **Vue.js**, and exploring advanced **Node.js** features.
 - 👨‍💻 Skilled in **JavaScript**, **TypeScript**, **Python**, and frameworks like **Quasar**, **Express**, and **Tailwind CSS**.
-- 🧪 Experience in **Quality Assurance**, including **Test-Driven Development (TDD)** and writing test cases using **Jest**.
+- 🧪 Experience in **Quality Assurance**, including **Test-Driven Development (TDD)** and writing test cases using **Jest** 
+  for the Front End and **SuperTest** for the Back End along with **Postman**.
 - 🎯 Focused on creating efficient, scalable, and user-friendly applications.
 
 ---
@@ -44,12 +45,13 @@ For a detailed portfolio, visit my [website](https://frost-works.netlify.app/).
 
 ### 🛠️ Skills & Tools
 
-**Languages:** JavaScript, TypeScript, Python (Pandas, Tensorflow)  
-**Front-End:** React.js, Vue.js, Quasar, HTML, CSS, Tailwind, Bootstrap  
+**Languages:** JavaScript, TypeScript, Python (Pandas, Tensorflow), PHP  
+**Front-End:** React.js, Vue.js, Quasar, HTML, CSS, SASS/SCSS, Tailwind, Bootstrap, Material UI, Element UI, jQuery, EJS
+  **Store-State:** Vuex, Entity
 **Back-End:** Node.js, Express, PostgreSQL, MongoDB, REST APIs  
 **Testing:** Jest, Supertest, Postman  
-**Tools:** Webpack, Git, Firebase, Heroku, Jira  
-**Other:** Agile, Scrum, Technical Writing, Talent Acquisition  
+**Tools:** Webpack, Vite, Git, Firebase, Heroku, Vercel, Jira, Datadog
+**Other:** Agile, Scrum Master, MVC, UI/UX Figma Design, Technical Writing, Talent Acquisition  
 
 ---
 
