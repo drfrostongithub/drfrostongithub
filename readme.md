@@ -4,9 +4,9 @@ I'm **Putra Reza Fardani**, a passionate **Software Developer** from **Jakarta, 
 
 ---
 
-<a href="https://github.com/drfrostongithub/GitHub-Language-Stats">
-<img src="https://github.com/drfrostongithub/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/drfrostongithub/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/drfrostongithub/github-stats">
+<img src="https://github.com/drfrostongithub/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/drfrostongithub/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=drfrostongithub)
