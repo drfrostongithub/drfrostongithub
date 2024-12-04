@@ -27,18 +27,6 @@ I'm **Putra Reza Fardani**, a passionate **Software Developer** from **Jakarta, 
 - **[JDM (Just Delete Me)](https://github.com/jdm-contrib/jdm/pulls?q=is%3Apr+is%3Aclosed+author%3Adrfrostongithub)**
   - Contributed to enhancing a curated list of direct links for deleting online accounts.
 
-- **Admin Portal Field Management & Microlending**
-  - Built with **Vue.js** and **Element UI**, streamlining administrative workflows for finance management.
-
-- **Web App Field Management**
-  - Developed using **Quasar** and **HTML/CSS**, improving user experience for on-field data management.
-
-- **Kman Core WebApp**
-  - Delivered a responsive web application using **React.js** and **Webpack** for enhanced team collaboration.
-
-- **SPD-Mobile-app**
-  - Created with **React.js** and **Native CSS**, optimized for mobile responsiveness.
-
 For a detailed portfolio, visit my [website](https://frost-works.netlify.app/).
 
 ---
@@ -46,11 +34,11 @@ For a detailed portfolio, visit my [website](https://frost-works.netlify.app/).
 ### 🛠️ Skills & Tools
 
 **Languages:** JavaScript, TypeScript, Python (Pandas, Tensorflow), PHP  
-**Front-End:** React.js, Vue.js, Quasar, HTML, CSS, SASS/SCSS, Tailwind, Bootstrap, Material UI, Element UI, jQuery, EJS
-  **Store-State:** Vuex, Entity
+**Front-End:** React.js, Vue.js, Quasar, HTML, CSS, SASS/SCSS, Tailwind, Bootstrap, Material UI, Element UI, jQuery, EJS  
+**Store-State:** Vuex, Entity  
 **Back-End:** Node.js, Express, PostgreSQL, MongoDB, REST APIs  
 **Testing:** Jest, Supertest, Postman  
-**Tools:** Webpack, Vite, Git, Firebase, Heroku, Vercel, Jira, Datadog
+**Tools:** Webpack, Vite, Git, Firebase, Heroku, Vercel, Jira, Datadog  
 **Other:** Agile, Scrum Master, MVC, UI/UX Figma Design, Technical Writing, Talent Acquisition  
 
 ---
