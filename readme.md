@@ -35,7 +35,7 @@ For a detailed portfolio, visit my [website](https://frost-works.netlify.app/).
 
 **Languages:** JavaScript, TypeScript, Python (Pandas, Tensorflow)  
 **Front-End:** React.js, Vue.js, Next.js, Quasar, HTML, EJS  
-**CSS-Frameworks:** CSS, SASS/SCSS, Tailwind, Bootstrap, Material UI, Element UI, jQuery
+**CSS-Frameworks:** CSS, SASS/SCSS, Tailwind, Bootstrap, Material UI, Element UI, jQuery  
 **Store-State:** Vuex, Redux, Entity  
 **Back-End:** Node.js, Nest.js, Express, PostgreSQL, MongoDB  
 **Testing:** Jest, Supertest, Postman  
