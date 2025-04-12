@@ -34,13 +34,13 @@ For a detailed portfolio, visit my [website](https://frost-works.netlify.app/).
 ### 🛠️ Skills & Tools
 
 **Languages:** JavaScript, TypeScript, Python (Pandas, Tensorflow)  
-**Front-End:** React.js, Vue.js, Next.js, Quasar, HTML, EJS
+**Front-End:** React.js, Vue.js, Next.js, Quasar, HTML, EJS  
 **CSS-Frameworks:** CSS, SASS/SCSS, Tailwind, Bootstrap, Material UI, Element UI, jQuery
-**Store-State:** Vuex, Redux, Entity
-**Back-End:** Node.js, Nest.js, Express, PostgreSQL, MongoDB
+**Store-State:** Vuex, Redux, Entity  
+**Back-End:** Node.js, Nest.js, Express, PostgreSQL, MongoDB  
 **Testing:** Jest, Supertest, Postman  
 **Tools:** Webpack, Vite, Git, Firebase, Heroku, Vercel, Jira, Datadog, Netlify  
-**Other:** Agile, Scrum Master, MVC, Wix, UI/UX Figma Design, Technical Writing, Talent Acquisition  
+**Other:** Agile, Scrum Master, MVC, UI/UX Figma Design, Technical Writing, Talent Acquisition  
 **Currently Learning:** PHP Laravel, Data Scrapping/Crawling and Analyst
 
 
